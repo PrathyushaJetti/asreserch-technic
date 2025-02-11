@@ -200,6 +200,8 @@
     <script src="<?= ROOT_PATH ?>js/wow.js"></script>
     <!-- Main Custom js file -->
     <script src="<?= ROOT_PATH ?>js/function.js"></script>
+    <script src="<?= ROOT_PATH ?>js/script.js"></script>
+
 </body>
 
 

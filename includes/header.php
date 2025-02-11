@@ -39,6 +39,7 @@ define('ROOT_PATH', 'http://localhost/asreserch-technic/');
     <link rel="stylesheet" href="<?= ROOT_PATH ?>css/magnific-popup.css">
     <!-- Main Custom Css -->
     <link href="<?= ROOT_PATH ?>css/custom.css" rel="stylesheet" media="screen">
+    <link href="<?= ROOT_PATH ?>css/scrolling.css" rel="stylesheet" media="screen">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 </head>
 

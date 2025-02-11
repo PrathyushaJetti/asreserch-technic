@@ -82,7 +82,8 @@ include('includes/header.php');
                             <img src="images/icon-email.svg" alt="mail">
                         </div>
                         <div class="contact-info-content">
-                            <p><a href="#">asreserchtechnic@gmail.com</a></p>
+                        <p><a href="mailto:asreserchtechnic@gmail.com">asreserchtechnic@gmail.com</a></p>
+
 
                         </div>
                     </div>

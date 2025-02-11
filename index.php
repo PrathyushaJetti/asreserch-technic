@@ -39,14 +39,12 @@ include('includes/header.php');
                             color: #2386c9;
                         }
                     </style>
-                       <div class="section-title">
-                        <h2 class="text-anime-style-3">Learn Stock Market News and Updates from Expert Research and
-                            Technical Analysts
+                    <div class="section-title">
+                        <h2 class="text-anime-style-3">Learn Stock Market News and Updates from Expert Research Analyst 
                         </h2>
                     </div>
                     <div class="hero-content-body wow fadeInUp" data-wow-delay="0.5s">
-                        <p> AS Research and Technical Analysis Team provides a unique trading experience. We use advanced
-                            technology and conduct research calls across all segments, assisted by expert Traders.
+                        <p>AS Research and Technic Expert Team provides a unique trading experience. We use advanced technology and conduct research calls across all segments, assisted by expert Traders.
                         </p>
                     </div>
 
@@ -72,158 +70,82 @@ include('includes/header.php');
 </div>
 <!-- Hero Section End -->
 
-<!-- About Section Start -->
-<div class="about-us">
-    <div class="container">
-        <!-- <div class="row section-row align-items-center">
-                <div class="col-lg-6">
-                   
-                    <div class="section-title" style="margin-top: -100px;">
-                        <h3 class="wow fadeInUp">about us</h3>
-                        <h2 class="text-anime-style-3" >what is stock market ? </h2>
-                        <div class="section-title-content wow fadeInUp" data-wow-delay="0.25s">
-                            <p>Choosing our stock advisory company means choosing a team dedicated to your financial growth
-                                and peace of mind. Here’s why investors partner with us.</p>
-                        </div>
-                    </div>
-                  
-                </div>
 
-                <div class="col-lg-6">
-                 
-                    <div class="section-title-content wow fadeInUp" data-wow-delay="0.25s">
-                        <p>The stock market refers to the collection of markets and exchanges where buying, selling, and
-                            issuance of shares of publicly-held companies occur. It provides companies with access to
-                            capital in exchange for giving investors a slice of ownership in the company.The stock
-                            market plays a crucial role in the economy by facilitating capital formation, liquidity, and
-                            wealth creation for both companies and individual investors. </p>
-                    </div>
-                   
-                </div>
-            </div> -->
-        <!-- <div class="cta-box">
-                <div class="container">
-                    <div class="row align-items-center">
-                        <div class="col-lg-8">
-                            
-                            <div class="section-title">\
-                                <h2 class="text-anime-style-3">Today News </h2>
-                            </div>
-                          
-                        </div>
-        
-                        <div class="col-lg-4">
-                            
-                            <div class="section-btn wow fadeInUp" data-wow-delay="0.25s">
-                                <a href="./news/news.html" class="btn-default btn-highlighted btn-large">Read Now </a>
-                            </div>
-                           
-                        </div>
-                    </div>
-                </div>
-            </div> -->
-
-        <div class="row mt-5">
-            <div class="col-lg-12">
-                <!-- About Video Image Start -->
-                <div class="about-video-image">
-                    <!-- About Image Start -->
-                    <div class="about-image">
-                        <figure class="image-anime reveal">
-                            <img src="image/video-bg.webp" alt="bg-video">
-                        </figure>
-                    </div>
-                    <!-- About Image End -->
-
-                    <!-- About Video Btn Start -->
-                    <div class="about-video-btn">
-                        <div class="icon-box">
-                            <a href="./image/asreserch-technic.mp4" class="popup-video"><i
-                                    class="fa-solid fa-play"></i>play video</a>
-                        </div>
-                    </div>
-                    <!-- About Video Btn End -->
-                </div>
-                <!-- About Video Image End -->
+<div class="container-fluid mt-4" style="background-color:#f5f7fa ;">
+    <div class="row section-row align-items-center ">
+        <div class="col-lg-12">
+            <!-- Section Title Start -->
+            <div class="section-title">
+                <center>
+                    <h4 class="wow fadeInUp mt-2">TODAYS UPDATE</h4>
+                </center>
+                <center>
+                    <h2 class="text-anime-style-3 pt-5"> Stay tuned for the latest updates you need to
+                        know.</h>
+                </center>
             </div>
+            <!-- Section Title End -->
         </div>
 
 
-        <div class="row">
-            <div class="col-md-4">
-                <!-- About Company Item Start -->
-                <div class="about-company-item wow fadeInUp" data-wow-delay="0.25s">
-                    <div class="icon-box">
-                        <img src="images/icon-about-company-1.svg" alt="about">
-                    </div>
-                    <div class="about-company-content">
-                        <p>We have achieved significant milestones in advanced trading solutions, impactful research,
-                            and consistently delivering success to our valued clients.
-                        </p>
+    </div>
+    <div class="cta-box" style="background-color:#f5f7fa;">
+        <div class="container-fluid">
+            <div class="row align-items-center">
+
+                <div class="scroll-container">
+
+                    <div class="container-scroll-section">
+                        <div class="card-scroll-section  " style="background-color: #2386c9;"
+                            onclick="navigateToPage('./news/news.php')">
+
+                            <h5 class="description" style="color: white;">Market news on February 10, 2025</h5>
+                        </div>
+                        <div class="card-scroll-section " style="background-color: #1d295d;"
+                            onclick="navigateToPage('./news/news.php')">
+
+                            <h5 class="description" style="color:white;">Global Market News</h5>
+                        </div>
+                        <div class="card-scroll-section" style="background-color: #2386c9;"
+                            onclick="navigateToPage('./news/news.php')">
+                            <h5 class="description" style="color: white;">Commodities Market News</h5>
+                        </div>
+                        
+                        <div class="card-scroll-section " style="background-color: #1d295d;" 
+                        onclick="navigateToPage('./news/news.php')">
+
+                           <h5 class="description" style="color: white;">Our Expert Research</h5>
+                        </div>
+
+
+
+
+
+
+
+
 
                     </div>
-                </div>
-                <!-- About Company Item End -->
-            </div>
 
-            <div class="col-md-4">
-                <!-- About Company Item Start -->
-                <div class="about-company-item wow fadeInUp" data-wow-delay="0.5s">
-                    <div class="icon-box">
-                        <img src="images/icon-about-company-2.svg" alt="about">
-                    </div>
-                    <div class="about-company-content">
-                        <p>We Provide accurate trading calls, insightful tips, reliable guidance, support from our
-                            expertise with guarantee results.
-                        </p>
-                    </div>
-                </div>
-                <!-- About Company Item End -->
-            </div>
 
-            <div class="col-md-4">
-                <!-- About Company Item Start -->
-                <div class="about-company-item wow fadeInUp" data-wow-delay="0.75s">
-                    <div class="icon-box">
-                        <img src="images/icon-about-company-3.svg" alt="about">
-                    </div>
-                    <div class="about-company-content">
-                        <p>We Provide accurate trading calls, insightful tips, reliable guidance, support from our
-                            expertise with guarantee results.</p>
-                    </div>
+
                 </div>
+                <div class="service-footer-btn wow fadeInUp" data-wow-delay="0.5s">
+                    <a href="news/news.php" class="btn-default">Know More </a>
+                </div>
+
+
+
             </div>
         </div>
     </div>
 
 </div>
 
-<div class="cta-box">
-    <div class="container">
-        <div class="row align-items-center">
-            <div class="col-lg-8">
-                <!-- Section Title Start -->
-                <div class="section-title">
-                    <h2 class="text-anime-style-3">Today News </h2>
-                </div>
-
-                <!-- Section Title End -->
-            </div>
-
-            <div class="col-lg-4">
-                <!-- Section Btn Start -->
-                <div class="section-btn wow fadeInUp" data-wow-delay="0.25s">
-                    <a href="#" class="btn-default btn-highlighted btn-large">Read Now </a>
-                </div>
-                <!-- Section Btn End -->
-            </div>
-        </div>
-    </div>
-</div>
 <!-- About Section End -->
 
 <!-- Our Services Start -->
-<div class="our-service light-bg-section">
+<div class="our-service light-bg-section mt-4">
     <div class="container">
         <div class="row section-row align-items-center">
             <div class="col-lg-12">
@@ -249,11 +171,12 @@ include('includes/header.php');
                         </figure>
                     </div>
                     <div class="service-content">
-                        
-                        <h3>Bank Nifty + Bank Nifty Option Calls  </h3>
+
+                        <h3>Bank Nifty + Bank Nifty Option Calls </h3>
                         <div class="service-readmore-btn">
-                                <a href="services/bank-nifty-and-bank-nifty-option-calls.php" class="btn-default">read more</a>
-                            </div>
+                            <a href="services/bank-nifty-and-bank-nifty-option-calls.php" class="btn-default">read
+                                more</a>
+                        </div>
                     </div>
                 </div>
                 <!-- Service Item End -->
@@ -264,15 +187,16 @@ include('includes/header.php');
                 <div class="service-item wow fadeInUp" data-wow-delay="0.5s">
                     <div class="service-image">
                         <figure class="image-anime">
-                            <a href="services/currency-calls.php"><img src="image/currency-calls-small.webp" alt="CURRENCY CALLS"></a>
+                            <a href="services/currency-calls.php"><img src="image/currency-calls-small.webp"
+                                    alt="CURRENCY CALLS"></a>
                         </figure>
                     </div>
                     <div class="service-content">
                         <h3>CURRENCY CALLS </h3>
-                       
+
                         <div class="service-readmore-btn">
-                                <a href="services/currency-calls.php" class="btn-default">read more</a>
-                            </div>
+                            <a href="services/currency-calls.php" class="btn-default">read more</a>
+                        </div>
                     </div>
                 </div>
                 <!-- Service Item End -->
@@ -288,10 +212,10 @@ include('includes/header.php');
                     </div>
                     <div class="service-content">
                         <h3>MCX CALLS</h3>
-                       
+
                         <div class="service-readmore-btn">
-                                <a href="services/mcx-calls.php" class="btn-default">read more</a>
-                            </div>
+                            <a href="services/mcx-calls.php" class="btn-default">read more</a>
+                        </div>
                     </div>
                 </div>
                 <!-- Service Item End -->
@@ -407,8 +331,7 @@ include('includes/header.php');
             <div class="col-lg-6">
                 <!-- Section Title Content Start -->
                 <div class="section-title-content wow fadeInUp" data-wow-delay="0.25s">
-                    <p>AS Research Technical Analysis Experts offer secure, detailed stock analysis with Unique
-                        insights. Elevate your trading experience confidently with our trusted expertise.
+                    <p>Our expert team offers secure, detailed stock analysis with Unique insights. Elevate your trading experience confidently with our trusted expertise.
                     </p>
                 </div>
                 <!-- Section Title Content End -->
@@ -947,7 +870,7 @@ include('includes/header.php');
                     <!-- Post Featured Image Start-->
                     <div class="post-featured-image">
                         <figure class="image-anime">
-                            <a href=".//blogs/SUCCESSFUL-TRADER.html"><img src=".//NEW IMAGES/TRADING STRA.png"
+                            <a href="#"><img src=".//NEW IMAGES/TRADING STRA.png"
                                     alt=""></a>
                         </figure>
                     </div>
@@ -955,7 +878,7 @@ include('includes/header.php');
 
                     <!-- post Item Body Start -->
                     <div class="post-item-body">
-                        <h2><a href=".//blogs/SUCCESSFUL-TRADER.html">HOW TO BE A SUCCESSFUL TRADER</a></h2>
+                        <h2><a href="#">HOW TO BE A SUCCESSFUL TRADER</a></h2>
                         <p>A Successful trader has an ample of experience and strategies to follow to survive in the
                             market. We can find few similarities among these traders to be fortunate. The following
                             bullet points gives a vivid idea of a being a successful trader.</p>
@@ -964,7 +887,7 @@ include('includes/header.php');
 
                     <!-- Post Item Footer Start-->
                     <div class="post-item-footer">
-                        <a href=".//blogs/SUCCESSFUL-TRADER.html" class="btn-default">read more</a>
+                        <a href="" class="btn-default">read more</a>
                     </div>
                     <!-- Post Item Footer End-->
                 </div>
@@ -977,14 +900,14 @@ include('includes/header.php');
                     <!-- Post Featured Image Start-->
                     <div class="post-featured-image">
                         <figure class="image-anime">
-                            <a href="./blogs/MARKET-ANALYSIS.html"><img src="./NEW IMAGES/5.png" alt=""></a>
+                            <a href="#"><img src="./NEW IMAGES/5.png" alt=""></a>
                         </figure>
                     </div>
                     <!-- Post Featured Image End -->
 
                     <!-- post Item Body Start -->
                     <div class="post-item-body">
-                        <h2><a href="./blogs/MARKET-ANALYSIS.html">HOW TO DO STOCK MARKET ANALYSIS?</a></h2>
+                        <h2><a href="#">HOW TO DO STOCK MARKET ANALYSIS?</a></h2>
                         <p>Understanding the stock market is one of the crucial roles for the novice and the experienced
                             stock analyst in a stock market. To understand the organizational financial health, trading
                             strategies, trends, and other specific information one undergo the marketing analysis.</p>
@@ -993,7 +916,7 @@ include('includes/header.php');
 
                     <!-- Post Item Footer Start-->
                     <div class="post-item-footer">
-                        <a href="./blogs/MARKET-ANALYSIS.html" class="btn-default">read more</a>
+                        <a href="#" class="btn-default">read more</a>
                     </div>
                     <!-- Post Item Footer End-->
 
@@ -1004,9 +927,9 @@ include('includes/header.php');
                 </div>
                 <!-- Blog Item End -->
                 <div class="post-item-footer">
-                    <center><a href="blog.html" class="btn-default"> Read More Blogs </a> </center>
+                    <center><a href="https://asresearchtechnic.com/blogs"  target="-blank" class="btn-default"> Read More Blogs </a> </center>
                 </div>
-
+ 
             </div>
 
             <div class="col-lg-4 col-md-6">

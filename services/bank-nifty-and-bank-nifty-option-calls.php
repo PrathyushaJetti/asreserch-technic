@@ -2,7 +2,7 @@
 $meta = [
     'title' => "Best Bank Nifty + Bank Nifty Option Calls provides in India",
     'description' => "Explore Bank Nifty Option Calls for leveraged trading on the top 12 banking stocks in India. Ideal for intraday and positional traders seeking high returns.",
-    'keywords' => "bank nifty, bank nifty banks, bank nifty index, bank nifty indices, bank nifty share price, share price of bank nifty, bank nifty today, bank nifty chart, bank nifty live, bank nifty call options, bank nifty option call, bank nifty call option price, Bank Nifty Option Calls provides,",
+    'keywords' => "bank nifty, bank nifty banks, bank nifty index, bank nifty indices,bank nifty share price, share price of bank nifty, bank nifty today, bank nifty chart, bank nifty live, bank nifty call options, bank nifty option call, bank nifty call option price, Bank Nifty Option Calls provides,",
 
 
 ];
@@ -46,6 +46,7 @@ include('../includes/header.php')
                             <img src="../image/bank-nifty+banknifty-option-calls.webp" alt="Bank Nifty">
                         </figure>
                     </div>
+                    
                     <!-- Service Featured Image End -->
 
                     <!-- Service Entry Content Start -->
@@ -60,15 +61,7 @@ include('../includes/header.php')
                             alternatives are famous amongst intraday and positional buyers looking to capitalize on
                             market actions and control chance effectively.
                         </p>
-
-
-
-
-                        <h3 class="text-anime-style-3">What We Offer </h3>
-
-
-
-
+                        <h3 class="text-anime-style-3">What We Offer</h3>
                         <p class="wow fadeInUp" data-wow-delay="0.25s">
                             At AS Research Technic, we specialize in providing Bank Nifty + Bank Nifty Option Calls to
                             enhance your trading experience. We offer 3 carefully curated pointers according to week,
@@ -79,8 +72,8 @@ include('../includes/header.php')
                         <ul>
                             <li>2 Weeks: ₹10,000</li>
                             <li>1 Month: ₹20,000</li>
-                            <li>3 Months: ₹40,000</li>
-                            <li>6 Months: ₹60,000</li>
+                            <li>3 Months:₹40,000</li>
+                            <li>6 Months:₹60,000</li>
                         </ul>
                         <p>Our goal is to empower you to trade confidently and effectively in the ever-evolving Bank
                             Nifty market.</p>
